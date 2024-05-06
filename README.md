@@ -4,7 +4,7 @@ This Repositor incudes sql scripts of data cleaned and organized for tableau das
 
 <h1>Link to the dash board</h1>
 
-https://public.tableau.com/views/Energyproduction_17149403189140/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
+[https://public.tableau.com/views/Energyproduction_17149403189140/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/Globalelectricityproduction/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 <h1>Data Source</h1>
 
